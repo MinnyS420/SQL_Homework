@@ -1,6 +1,7 @@
 --create database SEDCACADEMYDB
 use SEDCACADEMYDB
 
+
 create table dbo.Students
 (
 	Id INT IDENTITY(1,1),
