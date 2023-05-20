@@ -1,5 +1,5 @@
---create database EDCACADEMYDB
-use EDCACADEMYDB
+--create database SEDCACADEMYDB
+use SEDCACADEMYDB
 
 create table dbo.Students
 (
